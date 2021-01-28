@@ -6,3 +6,4 @@ pair 와 git remote 협업하기!
 거위
 위치
 치와와
+와플
